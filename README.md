@@ -28,7 +28,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo:
 
 | Minhas Estatísticas                                                                                             | Principais Linguagens                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Estatísticas do GitHub de Umutambyi Gad](https://github-readme-stats.vercel.app/api?username=Gabriel-Triceri&show_icons=true&hide_border=true&count_private=true&theme=radical) |![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Triceri&langs_count=10&count_private=true&hide_border=true&theme=radical&layout=compact)
+| ![Estatísticas do GitHub de Umutambyi Gad](https://github-readme-stats.vercel.app/api?username=Gabriel-Triceri&show_icons=true&hide_border=true&count_private=true&theme=radical) |![Estatísticas de Linguagens]  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-triceri&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 
 
